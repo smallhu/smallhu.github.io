@@ -2,26 +2,26 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: http://qixingjun.tech
+url: http://smallhu.tech
 date_format: "ordinal"
-title: 齐小白
+title: 翅膀
 subtitle: "每天进步一点点"
-description: "齐行君的个人博客"
-keywords: 齐行君, 齐小白, QiXingjun, Xingjun Qi
+description: "翅膀的个人博客"
+keywords: 翅膀, smallhu, wings
 favicon: /favicon.ico
 timezone: Asia/Shanghai
 encoding: "utf-8"
-source_code: https://github.com/QiXingjun/QiXingjun.github.io
+source_code: https://github.com/smallhu/smallhu.github.io
 side_bar_repo_limit: 5
 
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: Qi Xingjun
+author: wings
 organization: USTC
 organization_url: www.ustc.edu.cn
-location: SuZhou, China
-email: 18862141550@163.com
+location: ShangHai, China
+email: 350267176@qq.com
 
 # ---------------- #
 #    Navigation    #
@@ -73,19 +73,19 @@ collections:
 # ---------------- #
 #      Socials     #
 # ---------------- #
-github_username: QiXingjun
-douban_username: QiXingjun
-facebook_username: QiXingjun
-weibo_username: QiXingjun
-zhihu_username: QiXingjun
-twitter_username: QiXingjun
+github_username: smallhu
+douban_username: smallhu
+facebook_username: smallhu
+weibo_username: smallhu
+zhihu_username: smallhu
+twitter_username: smallhu
 
 # ---------------- #
 #      Comments    #
 # ---------------- #
 # support provider: disqus, duoshuo
 comments_provider: disqus
-duoshuo_username: qixiaobai
+duoshuo_username: smallhu
 # 在使用 disqus 的时候可点击显示多说评论框
 lazy_load_duoshuo: false
 
