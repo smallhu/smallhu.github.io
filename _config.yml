@@ -2,10 +2,10 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: http://smallhu.tech
+url: https://smallhu.github.io/
 date_format: "ordinal"
 title: 翅膀
-subtitle: "每天进步一点点"
+subtitle: "从你相信开始获得，从你怀疑开始失去"
 description: "翅膀的个人博客"
 keywords: 翅膀, smallhu, wings
 favicon: /favicon.ico
@@ -21,7 +21,7 @@ author: wings
 organization: USTC
 organization_url: www.ustc.edu.cn
 location: ShangHai, China
-email: 350267176@qq.com
+email: verycoder@163.com
 
 # ---------------- #
 #    Navigation    #
